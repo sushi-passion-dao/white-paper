@@ -19,3 +19,8 @@ join the sushi passion family!
 - 10% DAO fund
 - 10% liquidity
 - 50% LP farm community 
+
+#### Founders
+
+- n0x
+- fredev
